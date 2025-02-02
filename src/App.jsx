@@ -1,5 +1,6 @@
 //import React from 'react';
 
+import Banner from "./components/Banner";
 import Header from "./components/Header";
 
 
@@ -11,6 +12,7 @@ function App() {
     <div>
 
       <Header/>
+      <Banner/>
 
     </div>
 
