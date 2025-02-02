@@ -1,7 +1,9 @@
 //import React from 'react';
 
 import Banner from "./components/Banner";
+import Expert from "./components/Expert";
 import Header from "./components/Header";
+import NewsLetter from "./components/NewsLetter";
 
 
 
@@ -13,6 +15,8 @@ function App() {
 
       <Header/>
       <Banner/>
+      <Expert/>
+      <NewsLetter/>
 
     </div>
 
